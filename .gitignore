@@ -1,6 +1,6 @@
 test-report.html
 target/
 *.log
-*/password.txt
-*/*.jar
+**/password.txt
+**/*.jar
 *.war
